@@ -11,7 +11,7 @@ jobs:
     - name: Roda um script shell
       run: echo "Olá git actions"
 
-   test:
+  test:
     runs-on: ubuntu-20.04
     
     
